@@ -1,0 +1,68 @@
+<style >  
+content{
+    
+    }
+
+body {
+    background-image: url("https://picsum.photos/800/380");
+    background-repeat: no-repeat;
+    background-image: border 10px black;
+    text-align: left;
+    max-width: 50rem;
+    
+
+}
+
+nav {
+    color: hsl(211, 100%, 100%);
+
+}
+
+a:link {
+    padding: 1rem 3rem 1rem 1rem;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+
+}
+
+h1 {
+    font-size: 4rem;
+    color: hsl(211, 69%, 70%);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding: 1rem 2rem;
+
+
+}
+
+h2 {
+    font-size: 3.5rem;
+    color: hsl(211, 69%, 70%);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding: 1rem 2rem;
+}
+
+h3 {
+    font-size: 3rem;
+    color: hsl(211, 69%, 70%);
+    padding: 1rem 2rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+    color: hsl(211, 69%, 70%);
+    padding: 1rem 2rem;
+}
+
+p {
+
+    font-size: 1rem;
+    padding: 1rem 2rem;
+   
+}
+
+section {
+    font-size: 1rem;
+    padding: 0rem 1rem;
+}
+
+</style >
